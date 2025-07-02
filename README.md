@@ -13,7 +13,7 @@ const BEATS = [
   { title: "Lagos Night", url: "/beats/lagos_night_preview.mp3" },
 ];
 
-const OWNER_EMAIL = "niorbeats@gmail.com"; // Replace with your real email
+const OWNER_EMAIL = "cprogress590@gmail.com"; // Replace with your real email
 
 export default function NiorBeats() {
   const [email, setEmail] = useState("");
